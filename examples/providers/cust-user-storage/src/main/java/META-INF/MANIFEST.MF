@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: mybatis-3.5.5.jar jboss-jaxrs-api_2.1_spec-2.0.1.Final.jar
+
